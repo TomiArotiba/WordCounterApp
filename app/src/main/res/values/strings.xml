@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CounterApp-LAB02</string>
+    <string name="characters_selection">Characters</string>
+    <string-array name="selection_options">
+        <item>Characters</item>
+        <item>Words</item>
+    </string-array>
+</resources>
